@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.12.0](https://github.com/sonata-project/SonataNotificationBundle/compare/3.11.0...3.12.0) - 2021-03-11
+### Added
+- [[#545](https://github.com/sonata-project/SonataNotificationBundle/pull/545)] Add support for PHP 8.0 ([@Yozhef](https://github.com/Yozhef))
+- [[#564](https://github.com/sonata-project/SonataNotificationBundle/pull/564)] Support for "symfony/config:^5.2" ([@phansys](https://github.com/phansys))
+- [[#564](https://github.com/sonata-project/SonataNotificationBundle/pull/564)] Support for "symfony/dependency-injection:^5.2" ([@phansys](https://github.com/phansys))
+- [[#564](https://github.com/sonata-project/SonataNotificationBundle/pull/564)] Support for "symfony/http-foundation:^5.2" ([@phansys](https://github.com/phansys))
+
 ## [3.11.0](https://github.com/sonata-project/SonataNotificationBundle/compare/3.10.0...3.11.0) - 2021-01-27
 ### Added
 - [[#522](https://github.com/sonata-project/SonataNotificationBundle/pull/522)] Added support for `doctrine/persistence` 2 ([@core23](https://github.com/core23))
